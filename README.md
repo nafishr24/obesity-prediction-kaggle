@@ -1,4 +1,4 @@
-# Predicting Obesity Level with Three Models of Machine Learning
+# Predicting Obesity Levels Using Machine Learning
 
 Obesity is a chronic complex disease defined by excessive fat deposits that can impair health. It increases the risk of type 2 diabetes, heart disease, certain cancers, and can affect bone health, reproduction, and overall quality of life, including sleep and mobility.
 
